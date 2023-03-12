@@ -1,5 +1,5 @@
 var typed = new Typed("#typed", {
-    strings: ['Hello there!', 'How are you?'],
+    strings: ['Physical Education Teacher', 'Technology Enthusiast', 'DEV after 40'],
     typeSpeed: 35,
     startDelay: 500,
     backDelay: 1000,
